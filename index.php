@@ -9,7 +9,7 @@
 
 	if(!empty($arrUrl[1]))
 	{
-		if($arrUrl[1] != "")
+		if($arrUrl[1] != "hola")
 		{
 			$method = $arrUrl[1];	
 		}
